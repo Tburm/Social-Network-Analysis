@@ -21,6 +21,8 @@ $RECYCLE.BIN/
 # Operating System Files
 # =========================
 
+.pyc
+
 # OSX
 # =========================
 
